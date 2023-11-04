@@ -13,6 +13,7 @@ LogBox.ignoreLogs([
   ])
 
   //PropTypes işlevlerini typescript ile yazmamızı öneriyor çünkü yakın zamanda kaldırılacakmış tamamen.
+  //props. ile kullandığımız işlevler.(değiştirilmelis)
 
 const Stack = createNativeStackNavigator();
 
